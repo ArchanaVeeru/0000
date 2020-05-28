@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+		<produce id="1">
+			<naame>apple</naame>
+			<price>50</price>
+			<weight>1kg</weight>
+		</produce>
+		<produce id="2">
+			<naame>watermelon</naame>
+			<price>100</price>
+			<weight>2kg</weight>
+		</produce>
+		<produce id="3">
+			<naame>cantaloupe</naame>
+			<price>200</price>
+			<weight>1kg</weight>
+		</produce>
+</products>

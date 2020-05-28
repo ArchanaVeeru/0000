@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="methods">
+
+
+  <test name="Test">
+    <classes>
+      <class name="selenium.Csv_Datatesting"/>
+      	<methods>
+      		
+      	
+      		<exclude name="fireFox"/>
+      		<include name="loginTest"/>
+      		
+      	</methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
