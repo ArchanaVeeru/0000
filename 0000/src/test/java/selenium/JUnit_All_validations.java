@@ -31,7 +31,7 @@ public class JUnit_All_validations {
 	@Test
 	public void test() {
 		//TestResult result=new TestResult();
-		System.out.println(this.g());
+		//System.out.println(this.g());
 		fail("Not yet implemented");
 	}
 
